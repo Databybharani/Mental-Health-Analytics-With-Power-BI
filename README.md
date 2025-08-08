@@ -24,6 +24,45 @@ This project addresses:
 
 ---
 
+## 🌟 Dashboard Features (As Implemented)
+
+The Power BI dashboard explores how various lifestyle and behavioral factors affect mental health. Below are the actual visuals and features used in the project:
+
+- 🧮 **Card Visuals**
+  - Total patient count by Gender
+  - Average:
+  - Work Hours
+  - Sleep Hours
+  - Social Media Usage
+  - Physical Activity Hours
+
+- 🍩 **Donut Charts**
+  - Stress Level distribution by Social Media Usage
+  - Age Group distribution by Patient Count
+
+- 📈 **Line Chart**
+  - Average Work and Rest (Sleep) Hours compared by Gender
+
+- 📊 **Line & Stacked Column Chart**
+  - Mental Health Condition distribution based on Smoking Habits
+
+- 🌳 **Treemap Visuals**
+  - Medication Usage grouped by Mental Health Condition
+  - Diet Quality distribution based on Medication Usage
+
+- 📊 **Stacked Column Charts**
+  - Alcohol Consumption by Gender
+  - Physical Activity Hours by Gender
+
+- 📉 **Stacked Bar Chart**
+  - Stress Level distribution across different Occupations
+
+- 🥧 **Pie Charts**
+  - Severity Level by Gender
+  - Diet Quality by Total Number of Patients
+
+---
+
 ## 🛠 Tools & Technologies Used  
 - Power BI Desktop – for building visual dashboards  
 - DAX – for calculated fields and measures  
