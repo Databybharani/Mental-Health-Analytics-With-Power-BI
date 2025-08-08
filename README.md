@@ -31,51 +31,26 @@ This project addresses:
 
 ---
 
-## 📁 Dataset Fields Used  
-- Gender  
-- Sleep Hours  
-- Work Hours  
-- Physical Activity Hours  
-- Social Media Usage  
-- Smoking Habit  
-- Alcohol Consumption  
-- Meditation Usage  
-- Mental Health Condition  
-- Severity  
-- Consultant History  
-- Medication Usage  
-
----
-
-## 📊 Dashboard Features  
-- **Bar Charts**  
-  - Severity by Physical Activity  
-  - Social Media Usage by Severity  
-
-- **Line Chart**  
-  - Average Work Hours and Average Sleep Hours by Gender  
-
-- **Pie Charts**  
-  - Mental Health Condition Distribution  
-  - Consultant History Percentage  
-
-- **KPI Cards**  
-  - Total Respondents  
-  - Total with Consultant History  
-  - Total Using Medication  
-
-- **Slicers**  
-  - Gender  
-  - Severity  
-  - Mental Health Condition  
-
----
-
 ## 🎯 Key Insights  
 - Lower physical activity correlates with higher mental health severity  
 - Less sleep and more work hours indicate increased stress  
 - Usage of smoking, alcohol, and social media impacts mental health  
 - Meditation and consultation play roles in managing mental health  
+
+---
+
+## 📷 Screenshots
+
+### 🖼️ Power Query Page
+<!-- Uploading "Power Query Page.png"... -->
+
+### 🖼️ Power BI Desktop Page
+<!-- Uploading "Data 1.png"... -->
+<!-- Uploading "Data 2.png"... -->
+
+### 🖼️ Power BI Dashboard
+<!-- Uploading "Dashboard 1.png"... -->
+<!-- Uploading "Dashboard 2.png"... -->
 
 ---
 
