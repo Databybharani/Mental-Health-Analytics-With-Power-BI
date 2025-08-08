@@ -42,15 +42,15 @@ This project addresses:
 ## 📷 Screenshots
 
 ### 🖼️ Power Query Page
-<!-- Uploading "Power Query Page.png"... -->
+<img width="1600" height="860" alt="Image" src="https://github.com/user-attachments/assets/c7f88cb5-d40b-48c4-8bd7-16b03604a765" />
 
 ### 🖼️ Power BI Desktop Page
-<!-- Uploading "Data 1.png"... -->
-<!-- Uploading "Data 2.png"... -->
+<img width="1600" height="857" alt="Image" src="https://github.com/user-attachments/assets/743155aa-dbb1-409a-aff2-9cc6b817e8f2" />
+<img width="1600" height="858" alt="Image" src="https://github.com/user-attachments/assets/ae9ad845-72a4-4260-a96e-10d901e7c7f2" />
 
 ### 🖼️ Power BI Dashboard
-<!-- Uploading "Dashboard 1.png"... -->
-<!-- Uploading "Dashboard 2.png"... -->
+<img width="1226" height="689" alt="Image" src="https://github.com/user-attachments/assets/f3b6907f-ff63-46c3-a138-18d54f8804f0" />
+<img width="1223" height="686" alt="Image" src="https://github.com/user-attachments/assets/bd1cb71a-7ab3-4747-819d-6b74a7a1d057" />
 
 ---
 
