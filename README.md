@@ -85,11 +85,11 @@ The Power BI dashboard explores how various lifestyle and behavioral factors aff
 
 ### 🖼️ Power BI Desktop Page
 <img width="1600" height="857" alt="Image" src="https://github.com/user-attachments/assets/743155aa-dbb1-409a-aff2-9cc6b817e8f2" />
-<img width="1600" height="858" alt="Image" src="https://github.com/user-attachments/assets/ae9ad845-72a4-4260-a96e-10d901e7c7f2" />
+<img width="1600" height="858" alt="Image" src="https://github.com/user-attachments/assets/6319623f-f55a-476b-8ff6-8c5543a2b6f2" />
 
 ### 🖼️ Power BI Dashboard
 <img width="1226" height="689" alt="Image" src="https://github.com/user-attachments/assets/f3b6907f-ff63-46c3-a138-18d54f8804f0" />
-<img width="1223" height="686" alt="Image" src="https://github.com/user-attachments/assets/bd1cb71a-7ab3-4747-819d-6b74a7a1d057" />
+<img width="1225" height="689" alt="Image" src="https://github.com/user-attachments/assets/146c4532-83f7-45d3-ab6d-15014366bb02" />
 
 ---
 
